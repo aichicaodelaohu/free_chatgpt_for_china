@@ -1,2 +1,2 @@
-# free_chatgpt_for_china
-免费 ChatGPT 网站大全，定期更新，国内可访问的 ChatGPT 镜像网站分享。
+# ChatGPT 免费在线体验镜像网站 
+
